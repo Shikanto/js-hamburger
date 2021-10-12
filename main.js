@@ -17,3 +17,6 @@ closeHamburgerMenu.addEventListener("click", function(){
 
     hamburgerMenu.style.display = "none";
 })
+
+/* const hamburgerBtn = document.querySelector("header .header-right .fa-bars").parentElement;
+così recuperiamo il tag a che è il padre di fa-bars */
